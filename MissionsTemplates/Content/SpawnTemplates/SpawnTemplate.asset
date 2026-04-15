@@ -1,0 +1,353 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5f34092c23a98149ad6130ae99c8c3e, type: 3}
+  m_Name: SpawnTemplate
+  m_EditorClassIdentifier: 
+  gradeID: 502394654
+  spawns:
+  - ZoneWaves:
+    - Order: 0
+      Delay: 0
+      Enemies:
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+    - Order: 1
+      Delay: 0
+      Enemies:
+      - EnemyID: -1696419848
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: -1736269056
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: -1696419848
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+    - Order: 2
+      Delay: 0
+      Enemies:
+      - EnemyID: -1768445455
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: -1768445455
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+  - ZoneWaves:
+    - Order: 0
+      Delay: 0
+      Enemies:
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+    - Order: 1
+      Delay: 0
+      Enemies:
+      - EnemyID: -1696419848
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: -1736269056
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: -1696419848
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+    - Order: 2
+      Delay: 0
+      Enemies:
+      - EnemyID: -1768445455
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: -1768445455
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+  - ZoneWaves:
+    - Order: 0
+      Delay: 0
+      Enemies:
+      - EnemyID: -1736269056
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: -1768445455
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: -1736269056
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+  - ZoneWaves:
+    - Order: 0
+      Delay: 0
+      Enemies:
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: -1736269056
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+    - Order: 1
+      Delay: 0
+      Enemies:
+      - EnemyID: -1736269056
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: -1736269056
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+    - Order: 2
+      Delay: 0
+      Enemies:
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: -1768445455
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+    - Order: 3
+      Delay: 0
+      Enemies:
+      - EnemyID: -1736269056
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: -1696419848
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: -1736269056
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+  - ZoneWaves:
+    - Order: 0
+      Delay: 0
+      Enemies:
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: -1768445455
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+    - Order: 1
+      Delay: 0
+      Enemies:
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+    - Order: 2
+      Delay: 0
+      Enemies:
+      - EnemyID: -1768445455
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: -1696419848
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: -1768445455
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+    - Order: 3
+      Delay: 0
+      Enemies:
+      - EnemyID: -1736269056
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: -1736269056
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+  - ZoneWaves:
+    - Order: 0
+      Delay: 0
+      Enemies:
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: -1696419848
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: -1768445455
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+    - Order: 1
+      Delay: 0
+      Enemies:
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+    - Order: 2
+      Delay: 0
+      Enemies:
+      - EnemyID: -1696419848
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: -1696419848
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+  - ZoneWaves:
+    - Order: 0
+      Delay: 0
+      Enemies:
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: -1736269056
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: -1736269056
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+    - Order: 1
+      Delay: 0
+      Enemies:
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+    - Order: 2
+      Delay: 0
+      Enemies:
+      - EnemyID: -1736269056
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: -1736269056
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: -1736269056
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+  - ZoneWaves:
+    - Order: 0
+      Delay: 0
+      Enemies:
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: -1768445455
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+    - Order: 1
+      Delay: 0
+      Enemies:
+      - EnemyID: -1736269056
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: -1736269056
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+    - Order: 2
+      Delay: 0
+      Enemies:
+      - EnemyID: -1696419848
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: -1696419848
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+  - ZoneWaves:
+    - Order: 0
+      Delay: 0
+      Enemies:
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: -1768445455
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+    - Order: 1
+      Delay: 0
+      Enemies:
+      - EnemyID: -1768445455
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: -1736269056
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+    - Order: 2
+      Delay: 0
+      Enemies:
+      - EnemyID: -1768445455
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: -1768445455
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: -1768445455
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+  - ZoneWaves:
+    - Order: 0
+      Delay: 0
+      Enemies:
+      - EnemyID: -1736269056
+        LootDropID: 1722244822
+        LootGradeID: 502394654
+      - EnemyID: -1736269056
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+    - Order: 1
+      Delay: 0
+      Enemies:
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654
+      - EnemyID: 1955186746
+        LootDropID: -1569609337
+        LootGradeID: 502394654

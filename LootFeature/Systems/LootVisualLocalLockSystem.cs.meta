@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scripts/Features/LootFeature/Systems/LootVisualLocalLockSystem.cs.meta
+guid: a29a722ed6375e04a9090ace90efbe51
+========
+guid: 92da97fa5be881747ad6020abead8b10
+>>>>>>>> fix/LetterAndDroneFix:Assets/Scripts/BluePrints/SystemsBluePrint/LootVisualLocalLockSystemBluePrint.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

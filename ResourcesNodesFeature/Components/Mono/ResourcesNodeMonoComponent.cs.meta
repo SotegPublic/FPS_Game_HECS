@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scripts/Features/ShutteredDeath/ShatteredDeathViewComponent.cs.meta
+guid: cb029946216ce9d4e8348421a58b5e65
+========
+guid: e4af08b1b23c6a14484df10c3a407ffc
+>>>>>>>> feature/physAnimT3:Assets/Scripts/Components/MonoBehaviourComponents/ResourcesNodeMonoComponent.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
